@@ -18,7 +18,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ProjectHub/fpass-frontend" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -26,6 +26,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="ts.external.directory.path" value="C:\Users\maria\Documents\ProjectStudy\GoBarber\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -58,7 +59,7 @@
       <workItem from="1601905709836" duration="2478000" />
       <workItem from="1601991396779" duration="4330000" />
       <workItem from="1602089274403" duration="52000" />
-      <workItem from="1602336167371" duration="4263000" />
+      <workItem from="1602336167371" duration="6230000" />
     </task>
     <servers />
   </component>
@@ -66,10 +67,15 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="3620" y="275" key="FileChooserDialogImpl" timestamp="1602089324421">
-      <screen x="2560" y="0" width="2560" height="1040" />
+    <state x="1060" y="275" key="FileChooserDialogImpl" timestamp="1602343128004">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
+    <state x="1060" y="275" key="FileChooserDialogImpl/0.0.2560.1040/2560.0.2560.1040@0.0.2560.1040" timestamp="1602343128004" />
     <state x="3620" y="275" key="FileChooserDialogImpl/0.0.2560.1040/2560.0.2560.1040@2560.0.2560.1040" timestamp="1602089324421" />
+    <state x="1098" y="422" key="Github.CreateGistDialog" timestamp="1602343039978">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1098" y="422" key="Github.CreateGistDialog/0.0.2560.1040/2560.0.2560.1040@0.0.2560.1040" timestamp="1602343039978" />
     <state width="2517" height="275" key="GridCell.Tab.0.bottom" timestamp="1602339510765">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -150,6 +156,14 @@
     </state>
     <state width="2517" height="340" key="GridCell.Tab.3.right/0.0.2560.1040/2560.0.2560.1040@0.0.2560.1040" timestamp="1602337674273" />
     <state width="2517" height="340" key="GridCell.Tab.3.right/0.0.2560.1040/2560.0.2560.1040@2560.0.2560.1040" timestamp="1601951594372" />
+    <state x="781" y="165" key="SettingsEditor" timestamp="1602342672989">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="781" y="165" key="SettingsEditor/0.0.2560.1040/2560.0.2560.1040@0.0.2560.1040" timestamp="1602342672989" />
+    <state x="1152" y="364" key="cloudConfig.SelfSettingsDialog" timestamp="1602342652264">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1152" y="364" key="cloudConfig.SelfSettingsDialog/0.0.2560.1040/2560.0.2560.1040@0.0.2560.1040" timestamp="1602342652264" />
     <state x="3503" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601905261573">
       <screen x="2560" y="0" width="2560" height="1040" />
     </state>
