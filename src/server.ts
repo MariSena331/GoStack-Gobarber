@@ -1,13 +1,14 @@
 import 'reflect-metadata'
-
 import express from 'express'
-import routes from './routes'
+import bodyParser from 'body-parser'
 
 import './database'
 
+import routes from './routes'
+
 const app = express()
 
-app.use(express.json())
+app.use(bodyParser.json())
 app.use(routes)
 
 app.listen(3333, () => {
